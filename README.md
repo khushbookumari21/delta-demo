@@ -4,4 +4,4 @@ this is demo for git and github class.
 Shradha Mam
 
 # student
-Khushi verma
+Khushi Verma
